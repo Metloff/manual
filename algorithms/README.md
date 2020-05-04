@@ -1,3 +1,9 @@
+# Алгоритмы
+Описание ...
+
+- [<- назад](README.md)
+
+
 # РАЗОБРАТЬ
 http://aliev.me/runestone/AlgorithmAnalysis/BigONotation.html
 http://aliev.me/runestone/
