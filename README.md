@@ -2,7 +2,7 @@
 
 - [Алгоритмы](algorithms/README.md)
 - [Архитектура](architecture/README.md)
-- [Структуры данных](data%20stracture/README.md)
+- [Структуры данных](data_stracture/README.md)
 - [Базы данных](db/README.md)
 - [Окружение](env/README.md)
 - [Языки](languages/README.md)

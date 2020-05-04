@@ -1,7 +1,7 @@
 # Базы данных
 Описание ...
 
-- [Реляционные БД](RelationalDB/README.md)
+- [Реляционные БД](Relational_db/README.md)
 - [<- назад](../README.md)
 
 ## [Реляционные БД](https://en.wikipedia.org/wiki/Relational_database#RDBMS) 

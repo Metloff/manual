@@ -1,8 +1,8 @@
 # Структуры данных
 Описание ...
 
-- [Фильтр Блума](bloom%20filter/README.md)
-- [Хэш таблица](hash%20table/README.md)
+- [Фильтр Блума](bloom_filter/README.md)
+- [Хэш таблица](hash_table/README.md)
 - [<- назад](../README.md)
 
 # РАЗОБРАТЬ
