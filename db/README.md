@@ -71,3 +71,5 @@ Oracle, MySQL (free software), Microsoft SQL Server, PostgreSQL (free software),
 
 ## [CAP теорема](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_CAP)
 
+# Литература и видео
+- [Базы даных - Татьяна Денисова](https://www.youtube.com/watch?v=YjSIdz8DnAo&list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s&index=4)
