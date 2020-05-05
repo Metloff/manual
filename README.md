@@ -4,7 +4,7 @@
 - [Архитектура](architecture/README.md)
 - [Структуры данных](data_stracture/README.md)
 - [Базы данных](db/README.md)
-- [Окружение](env/README.md)
+- [Инфраструктура](infrastructure/README.md)
 - [Языки](languages/README.md)
 - [Бузопасность](security/README.md)
 
