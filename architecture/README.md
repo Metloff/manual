@@ -12,6 +12,7 @@
 - [Стажер Вася и его история об идемпотентности API
 (Денис Исаев)](https://habr.com/ru/company/yandex/blog/442762/)
 - [Optimizing the Netflix API](https://netflixtechblog.com/optimizing-the-netflix-api-5c9ac715cf19)
+- [Ретраи в распред системах](https://shubheksha.com/posts/2020/05/retries-in-distributed-systems-good-and-bad-parts/)
 
 
 # Литература и видео
