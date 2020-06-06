@@ -11,3 +11,9 @@
 - https://www.golangprograms.com/data-structure-and-algorithms.html
 - [Пример гугловского приложения на го](https://github.com/google/exposure-notifications-server)
 - [го редит](https://www.reddit.com/r/golang/)
+- [Выделение памяти в го](https://habr.com/ru/company/ruvds/blog/442648/)
+- [Блог по го](https://blog.learngoprogramming.com/)
+- [Как работает шедулер](https://povilasv.me/go-scheduler/)
+- [Ютуб канал по го](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw/videos)
+- [Крутые статьи парня с хабра про го](https://habr.com/ru/users/divan0/posts/)
+- [Каналы в го](https://medium.com/german-gorelkin/data-protected-by-confinement-ec6b7be401ea)
