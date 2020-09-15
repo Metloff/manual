@@ -268,3 +268,7 @@ select * from distributors where did = 1 for update;`
 - Виды индексов
 - Партиционирование
 - Шардирование
+
+
+# Разобрать
+- [17 Things Developers Need to Know About Databases](https://www.youtube.com/watch?v=HOho4HyKqTE)

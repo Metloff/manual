@@ -17,3 +17,5 @@
 - [Ютуб канал по го](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw/videos)
 - [Крутые статьи парня с хабра про го](https://habr.com/ru/users/divan0/posts/)
 - [Каналы в го](https://medium.com/german-gorelkin/data-protected-by-confinement-ec6b7be401ea)
+- [ГО под капотом](https://www.youtube.com/watch?v=rloqQY9CT8I)
+- [Создание эффективной клиентской библиотеки statsd. Андрей Смирнов, Virtustream](https://www.youtube.com/watch?v=OBHK6YjIS1U)

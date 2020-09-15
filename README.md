@@ -43,3 +43,9 @@
 
 **Эксплуатация**
 - [Site Reliability Engineering. Надежность и безотказность как в Google](https://www.piter.com/collection/soon/product/site-reliability-engineering-nadezhnost-i-bezotkaznost-kak-v-google)
+
+
+
+https://habr.com/ru/post/310794/
+https://habr.com/ru/post/188010/
+http://aliev.me/runestone/SortSearch/TheQuickSort.html

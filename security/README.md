@@ -2,3 +2,5 @@
 Описание ...
 
 - [<- назад](../README.md)
+
+- [xss](https://m.habr.com/ru/post/66057/)
