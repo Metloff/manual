@@ -4,6 +4,7 @@
 - Что происходит, когда вбиваешь в браузере google.com (как идет запрос до вашего приложения)
   - [habr](https://habr.com/ru/company/htmlacademy/blog/254825/)
   - [Федор из чата по руби](https://docs.google.com/document/d/1amkxTiGQ47rl_K7qQQDN5Xsq6AenLY3NWbE_HBFukp0/edit?usp=sharing )
+- [Вопросы по го](https://habr.com/ru/company/oleg-bunin/blog/521582/)
 
 ## Структура собеседования
 

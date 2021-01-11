@@ -9,11 +9,17 @@
 - [Безопасность](security/README.md)
 - [Собеседования](interview/README.md)
 
+# Послушать
+- [Generic talks](https://generictalks.com/episodes/)
+
 # Разобрать
 - Zookeper - как работате и тд 
 - LAMP стек
 - [build your own](https://www.youtube.com/watch?v=iqsnma51YDw&list=PLkPf8WARtuMwBwL2DCEgRDKX5ecAWFPRh&index=3&t=0s)
 - [build your own git](https://github.com/danistefanovic/build-your-own-x)
+- [awesome](https://github.com/sindresorhus/awesome)
+- [сравнение форматов сериализации](https://wiki.alopex.li/BetterThanJson)
+- [ак работает ClickHouse, лекция в ШАД!!](https://www.youtube.com/watch?v=vbhSrZxm66E&list=PLQC2_0cDcSKD1y0Yc6COzhn2bzYEZaYhQ&index=5)
 - Машина тьюринга
 - Как идет запрос из браузера?
   - Что такое URL и изкаких частей он состоит?
@@ -33,6 +39,7 @@
 - [Карьера программиста](https://www.piter.com/collection/all/product/kariera-programmista-6-e-izdanie-2)
 
 **Культура программирования**
+- [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 - [Чистый код. Создание, анализ и рефакторинг. Библиотека программиста | Мартин Роберт К.](https://www.ozon.ru/context/detail/id/142429922/)
 - [Идеальный программист. Как стать профессионалом разработки ПО | Мартин Роберт С.](https://www.ozon.ru/context/detail/id/135465064/)
 - [Чистая архитектура. Искусство разработки программного обеспечения | Мартин Роберт](https://www.ozon.ru/context/detail/id/144499396/)
@@ -43,6 +50,7 @@
 
 **Эксплуатация**
 - [Site Reliability Engineering. Надежность и безотказность как в Google](https://www.piter.com/collection/soon/product/site-reliability-engineering-nadezhnost-i-bezotkaznost-kak-v-google)
+- [путь становления для начинающего разработчика](https://github.com/zualex/devmap)
 
 
 

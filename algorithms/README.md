@@ -68,6 +68,7 @@
 
 # РАЗОБРАТЬ
 - [АЛГОРИТМЫ НА ГО](https://github.com/TheAlgorithms/Go)
+- [Алгоритмы на го](https://github.com/polosate/algorithms)
 - [Го и алгоритмы](https://yourbasic.org/algorithms/)
 - [Список алгоритмов](https://algorithmswithgo.com/)
 http://aliev.me/runestone/AlgorithmAnalysis/BigONotation.html
@@ -80,6 +81,8 @@ https://habr.com/ru/post/188010/
 - [Рекомендации Яндекса по изучению алгоритмов и стркутур данных](https://academy.yandex.ru/posts/5-sposobov-pobolshe-uznat-ob-algoritmakh)
 - [Введение в анализ сложности](https://habr.com/ru/post/196560/)
 - [Крутая статья по сложности алгоритмов и структурам](https://habr.com/ru/post/310794/)
+- [Bjarne Stroustrup: Why you should avoid Linked Lists](https://www.youtube.com/watch?v=YQs6IC-vgmo)
+- [Computer Science еще жива (Intellij IDEA.)](https://2016.jokerconf.com/talks/computer-science-is-not-dead-yet/)
 - Операции с большими числами
 - https://tproger.ru/digest/competitive-programming-practice/
 - exercism.io

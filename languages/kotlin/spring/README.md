@@ -20,3 +20,4 @@
 
 # Разобрать
 https://habr.com/ru/post/490586/
+- [JPA](https://habr.com/ru/post/435114/)

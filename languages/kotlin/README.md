@@ -43,3 +43,5 @@ PremadeWorldMap.load()
 # Разобрать
 https://kotlinlang.org/docs/reference/coroutines/basics.html
 https://proandroiddev.com/kotlin-coroutines-channels-csp-android-db441400965f
+- [The ABC of Coroutines - Kotlin Vocabulary](https://youtu.be/bM7PVVL_5GM)
+- [Style Guide](https://kotlinlang.org/docs/reference/coding-conventions.html)

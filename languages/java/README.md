@@ -450,3 +450,8 @@ com
 - < ? > - неизвестный тип
 - < ? extends Customer > - любой тип, который наследуется от класса Customer (любой его сабкласс)
 - < ? super Customer > - любой тип который является является суперклассом для класса Customer
+
+
+# Разобрать
+
+- [Chronicle Map — key value хранилище для трейдинга на Java](https://www.youtube.com/watch?v=iTJpGa3W0xc)

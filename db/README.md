@@ -73,3 +73,6 @@ Oracle, MySQL (free software), Microsoft SQL Server, PostgreSQL (free software),
 
 # Литература и видео
 - [Базы даных - Татьяна Денисова](https://www.youtube.com/watch?v=YjSIdz8DnAo&list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s&index=4)
+
+# Разобрать
+- [17 Things Developers Need to Know About Databases](https://www.youtube.com/watch?v=HOho4HyKqTE)

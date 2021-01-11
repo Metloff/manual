@@ -58,3 +58,7 @@
 
 # Литература и видео
 - [Инфраструктура - Дмитрий Орлов](https://www.youtube.com/watch?v=uRA5bL-vkQg&list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s&index=7)
+
+# Разобрать
+- [Managing my personal server in 2020](https://github.com/erebe/personal-server)
+- [Воркшоп: Знакомимся с Observability на практике. Елена Граховац](https://www.youtube.com/watch?v=7h7HOge2MAw)
