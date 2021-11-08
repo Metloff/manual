@@ -43,7 +43,9 @@
 
 - [Шаблоны проектирования в Go — Абстрактная Фабрика](https://habr.com/ru/post/530096/)
 
-https://golang.org/doc/code.html
-https://golang.org/doc/effective_go.html
-https://github.com/codeship/go-best-practices
-https://github.com/golang-standards/project-layout
+- https://golang.org/doc/code.html
+- https://golang.org/doc/effective_go.html
+- https://github.com/codeship/go-best-practices
+- https://github.com/golang-standards/project-layout
+- https://research.swtch.com/godata
+- https://dave.cheney.net/
