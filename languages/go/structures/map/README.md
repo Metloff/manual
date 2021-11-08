@@ -1,5 +1,11 @@
 # Map
 
+## Реализация
+- [Описание реализации от Dave Cheney](https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics)
+- [Структурыкоторые могут быть ключами](https://golangbyexample.com/interface-comparison-golang/)
+
+
+## Особенности
 Если конкурентно писать и читать из мапы, может возникнуть паника. Поэтому лучше обкладывать мапу мьютексами.
 
 Если в примере ниже убрать мьютексы на чтение, будет паника.
