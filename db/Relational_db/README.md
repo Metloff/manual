@@ -272,3 +272,6 @@ select * from distributors where did = 1 for update;`
 
 # Разобрать
 - [17 Things Developers Need to Know About Databases](https://www.youtube.com/watch?v=HOho4HyKqTE)
+
+# Литература
+- [Уровни изоляции и ACID](https://www.youtube.com/watch?v=gOB3hpAVIIQ)
